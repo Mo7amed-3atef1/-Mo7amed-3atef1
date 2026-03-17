@@ -1,4 +1,6 @@
-<h1 align="center">✨ 𝕄𝕠𝕙𝕒𝕕 𝔸𝕥𝕖𝕗 𝔾𝕙𝕒𝕝𝕨𝕒𝕤ℎ ✨</h1>
+<h1 align="center">
+  ✨ <span style="font-family: 'Courier New', Courier, monospace; color:#FF69B4;">Ｍｏｈａｍｅｄ Ａｔｅｆ Ｇｈａｌｗａｓｈ</span> ✨
+</h1>
 <h3 align="center">Frontend Developer 💻 | Founder of Web Weaver 🚀</h3>
 
 <p align="center">
@@ -16,28 +18,31 @@
 ## 📁 Projects
 <p align="center">
   <a href="https://example.com/project1" target="_blank">
-    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Project 1" width="150" />
+    <img class="glow-hover" src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Project 1" width="150" />
   </a>
   <a href="https://example.com/project2" target="_blank">
-    <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" alt="Project 2" width="150" />
+    <img class="glow-hover" src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" alt="Project 2" width="150" />
   </a>
   <a href="https://example.com/project3" target="_blank">
-    <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="Project 3" width="150" />
+    <img class="glow-hover" src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="Project 3" width="150" />
   </a>
   <a href="https://example.com/project4" target="_blank">
-    <img src="https://media.giphy.com/media/xT0GqeSlGSRQut6mqE/giphy.gif" alt="Project 4" width="150" />
+    <img class="glow-hover" src="https://media.giphy.com/media/xT0GqeSlGSRQut6mqE/giphy.gif" alt="Project 4" width="150" />
   </a>
 </p>
 
 <style>
-  a img {
+  .glow-hover {
     transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease;
     border-radius: 10px;
   }
-  a img:hover {
+  .glow-hover:hover {
     transform: scale(1.15) rotate(2deg);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
-    filter: brightness(1.2);
+    box-shadow: 0 0 20px 5px #FF69B4;
+    filter: brightness(1.3);
+  }
+  a img:hover {
+    cursor: pointer;
   }
 </style>
 
@@ -60,8 +65,11 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.facebook.com/share/1CPb6mu89A/"><img src="https://img.shields.io/badge/Web%20Weaver-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.facebook.com/share/1CPb6mu89A/"><img class="glow-hover" src="https://img.shields.io/badge/Web%20Weaver-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://github.com/yourusername"><img class="glow-hover" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourusername/"><img class="glow-hover" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername"><img class="glow-hover" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:yourmail@example.com"><img class="glow-hover" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ## 💬 Let's Build Something Big
