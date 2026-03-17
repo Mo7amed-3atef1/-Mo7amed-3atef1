@@ -1,6 +1,7 @@
 <h1 align="center">
-  ✨ <span style="font-family: 'Courier New', Courier, monospace; color:#FF69B4;">Ｍｏｈａｍｅｄ Ａｔｅｆ Ｇｈａｌｗａｓｈ</span> ✨
+  ✨ <span style="font-family: 'Courier New', Courier, monospace; color:#FF69B4; text-shadow: 0 0 5px #FF69B4, 0 0 10px #FF69B4, 0 0 20px #FF69B4, 0 0 40px #FF69B4;">𝕄𝕠𝕙𝕒𝕞𝕖𝕕 𝔸𝕥𝕖𝕗 𝔾𝕙𝕒𝕝𝕨𝕒𝕤𝕙</span> ✨
 </h1>
+
 <h3 align="center">Frontend Developer 💻 | Founder of Web Weaver 🚀</h3>
 
 <p align="center">
@@ -38,8 +39,8 @@
   }
   .glow-hover:hover {
     transform: scale(1.15) rotate(2deg);
-    box-shadow: 0 0 20px 5px #FF69B4;
-    filter: brightness(1.3);
+    box-shadow: 0 0 25px 10px #FF69B4;
+    filter: brightness(1.4);
   }
   a img:hover {
     cursor: pointer;
