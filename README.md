@@ -66,11 +66,21 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.facebook.com/share/1CPb6mu89A/"><img class="glow-hover" src="https://img.shields.io/badge/Web%20Weaver-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img class="glow-hover" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourusername/"><img class="glow-hover" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourusername"><img class="glow-hover" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:yourmail@example.com"><img class="glow-hover" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/share/1CPb6mu89A/">
+    <img class="glow-hover" src="https://img.shields.io/badge/Web%20Weaver-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/yourusername">
+    <img class="glow-hover" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/yourusername">
+    <img class="glow-hover" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.tiktok.com/@yourusername">
+    <img class="glow-hover" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
 </p>
 
 ## 💬 Let's Build Something Big
