@@ -1,4 +1,4 @@
-<h1 align="center">Eng : 𝕄𝕠𝕙𝕒𝕞𝕖𝕕 𝔸𝕥𝕖𝕗 𝔾𝕙𝕒𝕝𝕨𝕒𝕤ℎ </h1>
+<h1 align="center">✨ 𝕄𝕠𝕙𝕒𝕕 𝔸𝕥𝕖𝕗 𝔾𝕙𝕒𝕝𝕨𝕒𝕤ℎ ✨</h1>
 <h3 align="center">Frontend Developer 💻 | Founder of Web Weaver 🚀</h3>
 
 <p align="center">
@@ -43,7 +43,10 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,git,github,vscode,figma,ps,pr" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python" />
+</p>
+<p align="center">
+  <b>Languages:</b> Python, C++, HTML, CSS, JavaScript
 </p>
 
 ## 📊 GitHub Stats
